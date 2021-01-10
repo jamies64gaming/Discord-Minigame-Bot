@@ -1,4 +1,4 @@
-dicord
+discord
 random
 time
 sys
