@@ -1,1 +1,1 @@
-worker = python game_bot.py
+worker: python game_bot.py
